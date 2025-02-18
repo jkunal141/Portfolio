@@ -1,2 +1,2 @@
 # Portfolio
-This is my undergrad project experience
+This is my data science project experience
